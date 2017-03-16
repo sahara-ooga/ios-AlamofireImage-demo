@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_ios_AlamofireImage_demo_ios_AlamofireImage_demoTests : NSObject
+@end
+@implementation PodsDummy_Pods_ios_AlamofireImage_demo_ios_AlamofireImage_demoTests
+@end
