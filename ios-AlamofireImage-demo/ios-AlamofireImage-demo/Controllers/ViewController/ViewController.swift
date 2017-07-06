@@ -48,7 +48,8 @@ class ViewController: UIViewController {
 // MARK:- UICollectionViewDataSource
 extension ViewController: UICollectionViewDataSource {
     
-    func collectionView(_ collectionView: UICollectionView, numberOfItemsInSection section: Int) -> Int {
+    func collectionView(_ collectionView: UICollectionView,
+                        numberOfItemsInSection section: Int) -> Int {
         return imageUrls.count
     }
     
