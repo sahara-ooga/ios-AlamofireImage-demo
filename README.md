@@ -4,11 +4,12 @@ iOS AlamofireImage3.2.0を利用したサンプル
 ## 1. PodFile
 
 ```
-pod 'AlamofireImage', '3.2.0'
+pod 'AlamofireImage', '~> 3.3'
 ```
 
 ## 2. import する
 ```
+import Alamofire
 import AlamofireImage
 ```
 
@@ -57,4 +58,7 @@ if let url = URL.init(string: imageUrlString) {
 
 |OSS name | Version| 
 |---|---|
-| AlamofireImage | 3.2.0 |
+| AlamofireImage | 3.2.0~ |
+
+## 参照
+https://github.com/Alamofire/AlamofireImage
